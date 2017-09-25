@@ -1,0 +1,10 @@
+{
+  "title": "MSU Design System Styleguide",
+  "homepage": "../kss-homepage.md",
+  "source": [
+    "./source/patterns"
+  ],
+  "destination": "styleguide/",
+  "css": "./source/css"
+  // "mask": "*.css|*.less|*.sass|*.scss|*.styl|*.stylus|*.vue"
+}

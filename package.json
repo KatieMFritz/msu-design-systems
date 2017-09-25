@@ -1,0 +1,15 @@
+{
+  "name": "msu-design-system-kss",
+  "version": "0.0.1",
+  "author": "Katie Fritz <katie@katiemfritz.com>",
+  "scripts": {
+    "dev": "node build/dev-server.js",
+    "styleguide": "./node_modules/.bin/kss --config 'kss-config.json'"
+  },
+  "dependencies": {
+    "node-sass": "^4.5.3"
+  },
+  "devDependencies": {
+    "kss": "^3.0.0-beta.18"
+  }
+}
