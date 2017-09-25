@@ -2,7 +2,19 @@
   "name": "msu-design-system",
   "version": "0.0.1",
   "author": "Katie Fritz <katie@katiemfritz.com>",
-  "scripts": {},
+  "scripts": {
+    "styleguide": "vue-styleguidist server",
+    "styleguide:build": "vue-styleguidist build"
+  },
   "dependencies": {
+    "babel-loader": "^7.1.2",
+    "node-sass": "^4.5.3",
+    "sass-loader": "^6.0.6",
+    "vue-loader": "^13.0.5",
+    "vue-webpack-loaders": "^1.0.6"
+  },
+  "devDependencies": {
+    "vue-styleguidist": "^1.2.5",
+    "webpack": "^3.6.0"
   }
 }
