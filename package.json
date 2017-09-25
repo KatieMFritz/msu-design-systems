@@ -1,0 +1,13 @@
+{
+  "name": "msu-design-system-fractal",
+  "version": "1.0.0",
+  "author": "Katie Fritz <katie@katiemfritz.com>",
+  "scripts":{
+
+  },
+  "dependencies": {
+    "@frctl/fractal": "^1.0.0"
+  },
+  "devDependencies": {
+  }
+}

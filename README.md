@@ -1,1 +1,5 @@
-Base markup and CSS for MSU design system components
+Fractal implementation for MSU design system components
+
+http://fractal.build/guide
+
+Stalled - doesn't currently support vue.js
